@@ -1,11 +1,12 @@
 
 # 👋 Hi there, I'm **Kanishka Malik**  
+---
+## 🤝 Let's Connect!
 
-📧 **Email:** malikkanishka165@gmail.com  
-🔗 **LinkedIn:** [kanishka-malik-27040a243](https://www.linkedin.com/in/kanishka-malik-27040a243/)
+If my profile resonates with you or if you'd like to collaborate:
+- 🌍 **LinkedIn:** [kanishka-malik-27040a243](https://www.linkedin.com/in/kanishka-malik-27040a243/)
 
 ---
-
 ## 🧑‍💼 About Me
 
 I’m a B.Tech graduate passionate about building tools that solve real-world problems using technology.  
@@ -25,7 +26,7 @@ Here's a glimpse of what I work with:
 - 🚀 **Languages:** `Python` | `Java` | `SQL`
 - 🌐 **Web Tech:** `HTML` | `CSS` | `JavaScript` | `Flask`
 - 🛠️ **Tools:** `Git` | `GitHub` | `MySQL` | `Google Cloud Platform`
-- 📊 **Expertise:** `Data Analysis` | `NLP` | `Prompt Engineering` | `ATS Optimization`
+- 📊 **Interest:** `Data Analysis` | `NLP` | `Prompt Engineering` | `ATS Optimization`
 
 ---
 
@@ -42,34 +43,6 @@ An intelligent chatbot assistant that:
 - Converts speech-to-text and vice versa for a smoother UX.
 - Answers resume and job-related queries.
 - Integrates seamlessly with the ATS tool for **live feedback**.
-
----
-
-## 📊 Semester Marks Graph 
-
-10 | ╭╮
-9 | ╭╮ ╭╮╭╮ ╭╯╰╮
-8 | ╭╮ │╰─────╯╰╯╰─────╯ ╰╮
-7 | │╰───╯ ╰────
---------------------------------
-S1 S2 S3 S4 S5 S6 S7 S8
-8.66 9.65 9.22 9.29 7.94 8.14 8.29 8.47
-
-yaml
-Copy
-Edit
-
-> *Hand-drawn line graph showing SGPA trends from Semester 1 to 8.*
-
----
-
-## 🤝 Let's Connect!
-
-If my profile resonates with you or if you'd like to collaborate:
-
-- 💼 **Portfolio:** *(Coming Soon)*  
-- 📝 **Blog/Website:** *(Optional)*  
-- 🌍 **LinkedIn:** [kanishka-malik-27040a243](https://www.linkedin.com/in/kanishka-malik-27040a243/)
 
 ---
 

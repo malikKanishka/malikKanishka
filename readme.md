@@ -45,22 +45,21 @@ An intelligent chatbot assistant that:
 
 ---
 
-## 📊 Semester Marks Graph (ASCII Style)
+## 📊 Semester Marks Graph 
 
-```
+10 | ╭╮
+9 | ╭╮ ╭╮╭╮ ╭╯╰╮
+8 | ╭╮ │╰─────╯╰╯╰─────╯ ╰╮
+7 | │╰───╯ ╰────
+--------------------------------
+S1 S2 S3 S4 S5 S6 S7 S8
+8.66 9.65 9.22 9.29 7.94 8.14 8.29 8.47
 
-S1: █████████▍ 8.66
-S2: ███████████████▎ 9.65
-S3: █████████████▏ 9.22
-S4: █████████████▎ 9.29
-S5: ███████▋ 7.94
-S6: ████████▎ 8.14
-S7: █████████ 8.29
-S8: █████████▋ 8.47
+yaml
+Copy
+Edit
 
-```
-
-> *Graphical representation of SGPA per semester.*
+> *Hand-drawn line graph showing SGPA trends from Semester 1 to 8.*
 
 ---
 
@@ -76,6 +75,3 @@ If my profile resonates with you or if you'd like to collaborate:
 
 🧠 *“Curiosity, code, and creativity fuel my journey.”*  
 — _Kanishka Malik_
-```
-
-

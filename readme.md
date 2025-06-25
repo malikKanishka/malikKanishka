@@ -47,14 +47,15 @@ An intelligent chatbot assistant that:
 ## 📊 Semester Marks Graph
 
 ```mermaid
-%% Mermaid chart - SGPA trend
-line
-  title Semester Marks Graph
-  "S1": 8.66
-  "S2": 9.65
-  "S3": 9.22
-  "S4": 9.29
-  "S5": 7.94
-  "S6": 8.14
-  "S7": 8.29
-  "S8": 8.47
+%% Mermaid chart - SGPA by semester
+bar
+    title Semester Marks Graph
+    "S1" : 8.66
+    "S2" : 9.65
+    "S3" : 9.22
+    "S4" : 9.29
+    "S5" : 7.94
+    "S6" : 8.14
+    "S7" : 8.29
+    "S8" : 8.47
+

@@ -1,3 +1,4 @@
+
 # 👋 Hi there, I'm **Kanishka Malik**  
 
 📧 **Email:** malikkanishka165@gmail.com  
@@ -44,18 +45,37 @@ An intelligent chatbot assistant that:
 
 ---
 
-## 📊 Semester Marks Graph
+## 📊 Semester Marks Graph (ASCII Style)
 
-```mermaid
-%% Mermaid chart - SGPA by semester
-bar
-    title Semester Marks Graph
-    "S1" : 8.66
-    "S2" : 9.65
-    "S3" : 9.22
-    "S4" : 9.29
-    "S5" : 7.94
-    "S6" : 8.14
-    "S7" : 8.29
-    "S8" : 8.47
+```
+
+S1: █████████▍ 8.66
+S2: ███████████████▎ 9.65
+S3: █████████████▏ 9.22
+S4: █████████████▎ 9.29
+S5: ███████▋ 7.94
+S6: ████████▎ 8.14
+S7: █████████ 8.29
+S8: █████████▋ 8.47
+
+```
+
+> *Graphical representation of SGPA per semester.*
+
+---
+
+## 🤝 Let's Connect!
+
+If my profile resonates with you or if you'd like to collaborate:
+
+- 💼 **Portfolio:** *(Coming Soon)*  
+- 📝 **Blog/Website:** *(Optional)*  
+- 🌍 **LinkedIn:** [kanishka-malik-27040a243](https://www.linkedin.com/in/kanishka-malik-27040a243/)
+
+---
+
+🧠 *“Curiosity, code, and creativity fuel my journey.”*  
+— _Kanishka Malik_
+```
+
 

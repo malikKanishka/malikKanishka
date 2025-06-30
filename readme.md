@@ -4,8 +4,8 @@
 ## 🤝 Let's Connect!
 
 If my profile resonates with you or if you'd like to collaborate:
-- **LinkedIn:** [kanishka-malik-27040a243](https://www.linkedin.com/in/kanishka-malik-27040a243/)
-- **DockerHub:**[malikkanishka](https://hub.docker.com/u/malikkanishka)
+- **LinkedIn:** [Kanishka Malik](https://www.linkedin.com/in/kanishka-malik-27040a243/)
+- **DockerHub:** [malikkanishka](https://hub.docker.com/u/malikkanishka)
 ---
 ## 🧑‍💼 About Me
 
